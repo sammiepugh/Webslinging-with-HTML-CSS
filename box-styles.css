@@ -1,8 +1,8 @@
-h1,h2,h3{
-  background-color: #EAC117;    /* Light gray */
-padding: 5px;
-margin: auto;
+h1{ margin: auto;
+align-items: center;
+  background-color: #EAC117
 }
-h4,h5{
+h2,h3,h4 {
   padding: 0px;
+  margin: auto;
 }
